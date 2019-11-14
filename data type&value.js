@@ -36,3 +36,4 @@ console.log(Math.round(10.4))//四捨五入
 console.log((3).toFixed(2))//小數點後面加2位0
 console.log(typeof(3).toFixed(2))//用此種方法會自動轉成string
 console.log(12345.6789.toFixed())//沒數字表小數點後第0位，且會四捨五入
+
